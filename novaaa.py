@@ -37,3 +37,6 @@ if __name__ == "__main__":
     text = takecommand()
     if text:  # Only speak if valid input is received
         say(text)
+
+
+    #hello
